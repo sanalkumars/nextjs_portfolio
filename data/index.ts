@@ -140,13 +140,13 @@ export const navItems = [
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
+      name: "Brototype",
       img: "/cloud.svg",
       nameImg: "/cloudName.svg",
     },
     {
       id: 2,
-      name: "appwrite",
+      name: "Guardiance",
       img: "/app.svg",
       nameImg: "/appName.svg",
     },
@@ -162,12 +162,7 @@ export const navItems = [
       img: "/s.svg",
       nameImg: "/streamName.svg",
     },
-    {
-      id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
-    },
+   
   ];
   
   export const workExperience = [
