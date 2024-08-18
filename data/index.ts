@@ -96,11 +96,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Netflix-Clone",
-      des: "Recreated the Netflix using React JS ..",
-      img: "/p4.svg",
+      title: "LandingPage-Restora",
+      des: "An Attractive landing Page for A Resturent React JS ..",
+      img: "/p5.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/sanalkumars/netflixclone.git",
+      link: "https://restora-sand.vercel.app/",
     },
   ];
   
